@@ -6,8 +6,8 @@ Charakterystyka systemu operacyjnego
 
 | Charakterystyka | wartość           | komentarzu |
 | ------------- |:-------------:| -----:|
-| nazwa      | linux | centos 7 |
-| program (parametry sieci)      | niewiem |  |
+| nazwa      | linux | Kubuntu |
+| program (parametry sieci)      | Terminal |  |
 
 
 Konfiguracja połączenia sieciowego
@@ -15,9 +15,10 @@ Konfiguracja połączenia sieciowego
 
 | Parametr | wartość           | komentarzu |
 | ------------- |:-------------:| -----:|
-| Adres IP      | XX.XX.XX.XX | przydzielony przez DHCP |
-| Maska podsieci      |  |  |
-| Brama      |  |  |
+| Adres IP      | 10.0.0.93 | przydzielony przez DHCP |
+| Broadcast | 10.0.0.255| rozgłoszeniowy|
+| Maska podsieci      |  255.255.255.0 | przydzielona automatycznie |
+| Brama      | 10.0.0.1 |  domyślna|
 | DNS 1      |  |  |
 | DNS 2      |  |  |
 
