@@ -19,8 +19,8 @@ Konfiguracja połączenia sieciowego
 | Broadcast | 10.0.0.255| rozgłoszeniowy|
 | Maska podsieci      |  255.255.255.0 | przydzielona automatycznie |
 | Brama      | 10.0.0.1 |  domyślna|
-| DNS 1      |  |  |
-| DNS 2      |  |  |
+| DNS 1      | 10.0.0.1 |  |
+| DNS 2      | 0.0.0.0 |  |
 
 Schemat sieci
 -------------
