@@ -7,7 +7,7 @@ Charakterystyka systemu operacyjnego
 | Charakterystyka | wartość           | komentarzu |
 | ------------- |:-------------:| -----:|
 | nazwa      | linux | Kubuntu |
-| program (parametry sieci)      | Terminal |  |
+| program    | Terminal |  |
 
 
 Konfiguracja połączenia sieciowego
@@ -25,10 +25,7 @@ Konfiguracja połączenia sieciowego
 Schemat sieci
 -------------
 
-aby załączyć obrazek 
 
 ```markdown
-![alt schemat](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)![alt schemat](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
-![alt schemat](images/my-network-schema.png)
 ```
