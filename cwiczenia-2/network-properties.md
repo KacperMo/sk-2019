@@ -22,10 +22,11 @@ Wejściowe parametry sieci
 Weryfikacja połączenia
 
 Polecenie
+```
 ip a
 ifdown
 ifup
-
+```
 Efekt
 ```
 info o sieci
@@ -36,11 +37,11 @@ Wejściowe parametry sieci
 -------------------------
 | Parametr | wartość | komentarz(opcionalny) |
 | ------------- |:-------------:| -----:|
-|   PC 1 |  
+|   PC 1 |  10.0.2.15|
 | IP - address  | 192.168.10.10 | |
 | MASKA  | 255.255.255.0 | |
 |   |  | |
-| PC 2  |  | |
+| PC 2  |  | 10.0.2.4|
 | IP - address  | 172.16.100.100 | |
 | MASKA  | 255.255.0.0 | |
 
@@ -48,10 +49,12 @@ Weryfikacja połączenia
 
 Polecenie
 ```
+ping
 ```
 
 Efekt
 ```
+sprawdzanie połączenia
 ```
 
 Nowa statyczna konfiguracja 
@@ -59,7 +62,7 @@ Nowa statyczna konfiguracja
 -------------------------
 | Parametr | wartość | komentarz(opcionalny) |
 | ------------- |:-------------:| -----:|
-|   PC 1 |  
+|   PC 1 | 
 | IP - address  |  | |
 | MASKA  |  | |
 |   |  | |
