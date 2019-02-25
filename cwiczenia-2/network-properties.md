@@ -44,9 +44,7 @@ Wejściowe parametry sieci
 | IP - address  | | |
 | MASKA  | | |
 
-Weryfikacja połączenia
-
-Polecenie
+Weryfikacja połączenia poleceniem
 ```
 ping
 ```
