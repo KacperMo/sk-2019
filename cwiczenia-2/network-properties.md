@@ -18,9 +18,8 @@ Wejściowe parametry sieci
 | PC 2  |   10.0.2.4|
 | IP - address  | 172.16.100.100 | |
 | MASKA  | 255.255.0.0 | |
-Weryfikacja połączenia
 
-Polecenie
+Weryfikacja połączenia poleceniem
 ```
 ip a
 ifdown
