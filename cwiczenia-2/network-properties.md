@@ -38,10 +38,10 @@ Wejściowe parametry sieci
 | ------------- |:-------------:| -----:|
 |   PC 1 |  
 | IP - address  | 10.0.5.4| |
-| MASKA  | 10.0.5.5 | |
+| MASKA  |  | |
 |   |  | |
 | PC 2 | 
-| IP - address  | | |
+| IP - address  | 10.0.5.5 | |
 | MASKA  | | |
 
 Weryfikacja połączenia poleceniem
