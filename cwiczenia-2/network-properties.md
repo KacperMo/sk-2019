@@ -22,13 +22,15 @@ Wejściowe parametry sieci
 Weryfikacja połączenia
 
 Polecenie
-```
-```
+ip a
+ifdown
+ifup
 
 Efekt
 ```
+info o sieci
+wlączanie / wyłączanie karty sieciowej
 ```
-
 Statyczna konfiguracja parametrów połączenia
 Wejściowe parametry sieci
 -------------------------
