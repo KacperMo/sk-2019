@@ -36,11 +36,11 @@ Wejściowe parametry sieci
 -------------------------
 | Parametr | wartość | komentarz(opcionalny) |
 | ------------- |:-------------:| -----:|
-|   PC 1 |  10.0.5.4|
-| IP - address  | | |
-| MASKA  | | |
+|   PC 1 |  
+| IP - address  | 10.0.5.4| |
+| MASKA  | 10.0.5.5 | |
 |   |  | |
-| PC 2  | 10.0.5.5  | 
+| PC 2 | 
 | IP - address  | | |
 | MASKA  | | |
 
