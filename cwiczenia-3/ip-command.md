@@ -20,7 +20,6 @@ Ustawianie parametrów sieci ip
     * pokaż adresy dla konkretnego interfejsu
      
 
-
 ip 
 -------------------------
 | subcommand    |  polecenie   | opis  |
@@ -28,7 +27,9 @@ ip
 |   ``addr``    |                               | infirmacje o adresacji i własnościach interfejsów |
 |               |   ``ip addr``                 | informacja o wszystkich interfejsach              |
 |               |   ``ip addr show dev enp0s3`` | informacja o konkretnym interfejsie               |
-|   ``link``    |                               |  |
+|   ``link``    |                               | zarządzanie i wyswietlanie informacji o statusach interfejsów  |
+|               |   ``ip link set enp0s3 up``   | właczenie interfejsu              |
+|               |   ``ip link set enp0s3 down`` | wyłączenie interfejsu             |
 |   ``route``   |  | |
 |   ``maddr``   |  | |
 |   ``neigh``   |  | |
